@@ -1,0 +1,14 @@
+
+Instanciação
+
+Nome: Samuel Gomes ||   Sexo: m
+Matricula: 202810390034
+Endereço: Goianira - Go
+
+Nome: Lucas Lima||   Sexo: M
+Matricula: 2018102312301
+Endereço: Inhumas - Go
+
+Nome: Matheus ||   Sexo: M
+Matricula: 20139203912093
+Endereço: Itauçu - Go
